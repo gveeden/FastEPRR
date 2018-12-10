@@ -1,4 +1,4 @@
-# FastEPRR
+# FastEPRR working version
 Program for estimating the population recombination rate written by Feng Gao.
 
 See http://www.picb.ac.cn/evolgen/softwares/FastEPRR.html for more detailed information.
